@@ -1,0 +1,112 @@
+
+.container8{
+    background-color: #cecece;
+    margin: 0 250px 50px 250px;
+    min-width: 1024px;
+    display: flex;
+    gap: 20px;
+    padding: 10px 30px;
+}
+.gojen{
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+}
+.barobeta{
+    margin-bottom: 15px;
+    background-color: #fff;
+    height: 38px;
+    padding: 5px 0 0 10px;
+    font-weight: 500;
+    color: #a2a2a2;
+}
+.chotobeta{
+    display: flex;
+    flex-direction: column;
+    background-color: #fff;
+}
+.puti{
+    background-color: rgb(83, 83, 233);
+    height: 38px;
+    padding-left: 20px;
+    padding-top: 10px;
+    color: rgb(227, 227, 227);
+    font-weight: 500;
+    font-size: 15px;
+}
+
+.vetki{
+     padding: 10px 5px;
+}
+.vetki>input{
+    width: 230px;
+    height: 27px;
+    margin: 5px;
+    padding-left: 10px;
+    font-weight: 500;
+}
+.dhojen{
+    padding:20px;
+    background-color: white;
+}
+.sol{
+    padding: 0 0 30px 20px;
+}
+.sol>input{
+    width: 120px;
+    height: 35px;
+    background-color:rgb(241, 96, 29);
+    border-style: none;
+    border-radius: 3px;
+}
+.dag{
+    border-bottom: 1.5px solid rgb(150, 150, 150);
+    padding-top:10px;
+}
+.ekta{
+    font-size: 20px;
+    font-weight: bold;
+}
+.duita{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 7px 0 7px;
+    font-weight: 500;
+}
+.endur{
+    padding-top: 10px;
+    font-size: 13px;
+    font-weight: 500;
+    color: #a2a2a2;
+}
+.dat{
+    display: flex;
+    margin-top: 15px;
+    gap: 4px;
+}
+.coupon{
+  
+    height: 20px;
+    padding-left: 5px;
+}
+.coupon-btn{
+    border-style: none;
+    background-color: rgb(241, 96, 29);
+    font-size: 8px;
+    color: white;
+    height: 22px;
+    width: 30px;
+    border-radius: 3px;
+}
+.telli{
+    padding-top: 10px;
+    font-weight: 500;
+    font-size: 15px;
+}
+.chairta{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 5px;
+    font-weight: 900;
+    font-size: 20px;
+}
